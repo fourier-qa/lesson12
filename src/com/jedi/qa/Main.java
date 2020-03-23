@@ -3,8 +3,9 @@ package com.jedi.qa;
 import java.io.IOException;
 
 public class Main {
-    public static voids functionToPrintNumber()
+    public static void functionToPrintNumber()
     {
+        // Our first function
         int number = 6;
         System.out.println("Number: " + number);
     }
