@@ -10,6 +10,7 @@ public class Main {
         System.out.println("Number: " + number);
     }
 
+    // Petya has started programming
     public static void main(String[] args) throws IOException {
         int a = 5;
         int b = 2;
