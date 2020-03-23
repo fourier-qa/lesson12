@@ -11,6 +11,7 @@ public class Main {
     }
 
     // Petya has started programming
+    // Petya has added a function
     public static void main(String[] args) throws IOException {
         int a = 5;
         int b = 2;
